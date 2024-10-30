@@ -1,18 +1,5 @@
 # Learn Modern Python for Custome GPT and AI Agent Development
 
-This course is part of the [GenAI, Web 3, and Metaverse Program](https://docs.google.com/presentation/d/1XVSZhmv4XH14YpyDxJIvYWiUrF1EO9tsUnle17wCLIc/edit?usp=sharing)
-
-After completing this course, move on to the [Learn Generative AI Repo](https://github.com/panaverse/learn-generative-ai)
-
-
-## Class Recordings
-
-[Recorded Classes YouTube Playlist](https://www.youtube.com/playlist?list=PL0vKVrkG4hWrEujmnC7v2mSiaXMV_Tfu0)
-
-Note:
-
-Each Class Notebook contains a reference to the Class Recording Video Link 
-
 
 ## What is Modern Python?
 
@@ -69,13 +56,7 @@ So, we should use the built-in types list, tuple, dict, ...
 
 https://www.youtube.com/playlist?list=PLj5pwj8JzJ10U_jG1BwfgPO8pf1LywfDt
 
-## Fundamentals of Modern Python and Data Analysis Quiz
 
-Learning Material: All the Material Covered in this Course i.e. this repo
-
-Total Questions: 40
-
-Duration: 60 minutes 
 
 
 
