@@ -1,4 +1,4 @@
-# Learn Modern Python for Custome GPT and AI Agent Development
+# Learn Modern Python for Custom GPT and AI Agent Development
 
 
 ## What is Modern Python?
